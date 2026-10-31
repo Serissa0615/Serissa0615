@@ -1,4 +1,8 @@
 ## Hi there 👋
+我是Ra1nevery，软件工程专业大三学生。  
+正在学习：开源软件开发实践课程。  
+本学期目标：理解开源项目如何运转，完成一次规范贡献；养成记录问题、阅读文档、尊重许可证的习惯。
+
 
 <!--
 **Serissa0615/Serissa0615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
